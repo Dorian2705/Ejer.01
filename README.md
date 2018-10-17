@@ -5,14 +5,6 @@
 ***********  
  
  ...
- <!DOCTYPE html>
-<html>
-
-<head>   
-<title>PRESENTACION</title>
-
-
-
 
 </head>
 
@@ -35,7 +27,6 @@ background
 
 
 </body>
-
 
 
 
